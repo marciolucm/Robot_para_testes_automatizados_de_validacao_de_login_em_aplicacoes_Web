@@ -1,4 +1,4 @@
-# Título do Trabalho
+# Robô para testes automatizados de validação de login em aplicações Web
 
 #### Aluno: [Márcio Magalhães](https://github.com/marciolucm)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
