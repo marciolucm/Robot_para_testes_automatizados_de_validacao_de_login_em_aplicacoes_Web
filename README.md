@@ -1,7 +1,7 @@
 # Título do Trabalho
 
-#### Aluno: [Márcio Magalhães](https://github.com/link_do_github)
-#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) e [Nome Sobrenome](https://github.com/link_do_github).
+#### Aluno: [Márcio Magalhães](https://github.com/marciolucm)
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
 ---
 
