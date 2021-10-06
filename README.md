@@ -15,8 +15,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
-
 Muitos serviços estão sendo disponibilizados na internet e precisamos ter meios para verificar se eles estão disponíveis para os usuários por meio de testes automatizados. Neste trabalho, desenvolvo um robô para efetuar o login num serviço de hospedagem na internet, verificando a disponibilidade e o desempenho da aplicação, coletando dados como os tempos de login e a mensagem obtida, gerando um gráfico com os tempos obtidos e o resultado do desempenho médio do tempo de login.
 
 ### 1. Introdução
